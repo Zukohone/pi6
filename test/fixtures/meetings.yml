@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  desc: MyString
+  place: MyString
+  type: 
+  bgn: 2016-05-20 02:56:16
+  end: 2016-05-20 02:56:16
+
+two:
+  name: MyString
+  desc: MyString
+  place: MyString
+  type: 
+  bgn: 2016-05-20 02:56:16
+  end: 2016-05-20 02:56:16
